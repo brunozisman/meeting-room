@@ -8,7 +8,7 @@ Simple app for booking meeting rooms created with Angular and Spring Boot.
 * [Setup](#setup)
 
 ## General info
-This project is a simple meeting room booker.
+This project is a simple meeting room booking system.
 	
 ## Technologies
 Project is created with:
