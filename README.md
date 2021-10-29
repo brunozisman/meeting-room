@@ -30,6 +30,6 @@ Project is created with:
 To run this project, compile and run the backend maven project, then install it locally using npm in frontend:
 
 ```
-$ cd ../meeting-room
+$ cd ../meeting-room/frontend
 $ npm install
 $ npm start
