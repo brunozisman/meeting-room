@@ -27,7 +27,7 @@ Project is created with:
 
 	
 ## Setup
-To run this project, compie and run the backend maven project, then install it locally using npm in frontend:
+To run this project, compile and run the backend maven project, then install it locally using npm in frontend:
 
 ```
 $ cd ../meeting-room
